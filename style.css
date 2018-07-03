@@ -1,0 +1,52 @@
+body {
+  background: transparent;
+  color: #000000;
+  font-family: 'Josefin Sans', sans-serif;
+}
+  p {
+    font-family: 'Josefin Sans', sans-serif;
+  }
+.title {
+  margin-top: 30px;
+  margin-bottom: 10px;
+}
+.title {
+	margin-left: 80px;
+	margin-right: 80px
+}
+.title p {
+  font-size: 1.2rem;
+}
+.title h1 {
+  font-size: 3.5rem;
+}
+.title a{
+	color: #226CBF;
+	font-size: 2rem;
+}
+.title div {
+  font-size: 1.1rem;
+}
+.title hr {
+  width: 75%;
+}
+.summary p {
+	font-size: 1.3rem;
+	letter-spacing: 0.09rem;
+}
+.skills p {
+	font-size: 1.3rem;
+	letter-spacing: 0.09rem;
+}
+.work-experience p {
+	font-size: 1.3rem;
+	letter-spacing: 0.09rem;
+}
+.work-experience a {
+	color: #226CBF;
+	font-size: 1.3rem;
+	letter-spacing: 0.09rem;
+}
+.work-experience a:hover {
+  text-decoration: none;
+  font-weight: bold;
