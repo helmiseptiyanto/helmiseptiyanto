@@ -15,28 +15,28 @@ body {
 	margin-right: 80px
 }
 .title p {
-  font-size: 1.2rem;
+  font-size: 1.2em;
 }
 .title h1 {
-  font-size: 3.5rem;
+  font-size: 3.5em;
 }
 .title a{
 	color: #226CBF;
-	font-size: 2rem;
+	font-size: 2em;
 }
 .title div {
-  font-size: 1.1rem;
+  font-size: 1.1em;
 }
 .title hr {
   width: 75%;
 }
 .summary p {
-	font-size: 1.3rem;
-	letter-spacing: 0.09rem;
+	font-size: 1.3em;
+	letter-spacing: 0.09em;
 }
 .skills p {
-	font-size: 1.3rem;
-	letter-spacing: 0.09rem;
+	font-size: 1.3em;
+	letter-spacing: 0.09em;
 }
 .work-experience p {
 	font-size: 1.3rem;
